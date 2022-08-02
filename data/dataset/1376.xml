@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1376.jpg</filename>
+	<path>F:\大数据\yolov5-master\data\images\1376.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>884</width>
+		<height>1190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>129</ymin>
+			<xmax>709</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>
